@@ -1,4 +1,11 @@
 # createTables
+
+/**
+ * Class Table create & alter mysql database tables
+ * @author Isaac Ametameh <iametameh@gmail.com>
+ * @copyright 2018
+ */
+
 **
  * @example
  * $tables1 = new Table($conn);
